@@ -4,7 +4,7 @@ import { metaData } from './constants'
 export const head: HeadConfig[] = [
   ['link', { rel: 'icon', href: '/favicon.ico' }],
   ['meta', { name: 'author', content: 'Charles7c' }],
-  ['meta', { name: 'keywords', content: '查尔斯的知识库, 知识库, 博客, Charles7c' }],
+  ['meta', { name: 'keywords', content: 'Coolman的知识库, 代码库, 博客, 作业集' }],
 
   ['meta', { name: 'HandheldFriendly', content: 'True' }],
   ['meta', { name: 'MobileOptimized', content: '320' }],
