@@ -16,22 +16,22 @@ showComment: false
 <br>
 
 <div align="center">
-  <a href="https://blog.charles7c.top/" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/知识库-查尔斯-lightblue?logo=blogger&logoColor=lightblue" alt="个人主页" />
+  <a href="https://steady298.github.io" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/知识库-Coolman-lightblue?logo=blogger&logoColor=lightblue" alt="个人主页" />
   </a>&nbsp;
-  <a href="https://github.com/Charles7c" target="_blank" style="display: inline-block;">
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2445408174&site=qq&menu=yes" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/GitHub-%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8-brightgreen.svg?style=social&logo=github" alt="GitHub个人主页" />
   </a>&nbsp;
-  <a href="https://gitee.com/Charles7c" target="_blank" style="display: inline-block;">
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2445408174&site=qq&menu=yes" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/码云-Charles7c-C71D23?logo=gitee&logoColor=C71D23" alt="码云个人主页" />
   </a>&nbsp;
-  <a href="https://blog.csdn.net/Charles_7c" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/CSDN-查尔斯-FC5531?logo=C&logoColor=FC5531" alt="CSDN个人主页" />
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2445408174&site=qq&menu=yes" target="_blank" style="display: inline-block;">
+    <img src="http://wpa.qq.com/msgrd?v=3&uin=2445408174&site=qq&menu=yes" alt="CSDN个人主页" />
   </a>&nbsp;
-  <a href="https://juejin.cn/user/685744115170142" target="_blank" style="display: inline-block;">
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2445408174&site=qq&menu=yes" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/掘金-查尔斯-1E80FF" alt="掘金个人主页" />
   </a>&nbsp;
-  <a href="https://www.yuque.com/charles7c" target="_blank" style="display: inline-block;">
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2445408174&site=qq&menu=yes" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/语雀-查尔斯-38D27D" alt="语雀个人主页" />
   </a>&nbsp;
 </div>
