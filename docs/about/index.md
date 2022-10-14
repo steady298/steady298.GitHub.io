@@ -8,7 +8,7 @@ lastUpdated: false
 <img width=100% src="../public/img/svg/about-repos-header.svg" alt="头部图" />
 
 <div align="center">
-    📝 <strong>查尔斯的个人知识库，记录 & 分享个人碎片化、结构化、体系化的知识内容。</strong>
+    📝 <strong>Cool的个人知识库，记录 & 分享个人代码、恶心人的作业、趣闻。</strong>
 </div>
 
 ---
