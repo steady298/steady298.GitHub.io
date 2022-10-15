@@ -1,4 +1,4 @@
-const site = 'https://blog.charles7c.top'
+const site = 'https://steady298.github.io/'
 
 export const metaData = {
   lang: 'zh-CN',
